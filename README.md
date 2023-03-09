@@ -1,6 +1,6 @@
 # ProyectoKDC1.3
 
-# https://marcod3v3.github.io/proyectoKDC1.4/
+# https://marcod3v3.github.io/1.2VOFORCAP/
 
 ¡Bienvenido a mi repositorio de ayuda a la cultura shipiba!
 
